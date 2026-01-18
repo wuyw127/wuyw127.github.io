@@ -10,26 +10,34 @@ tags: [gemini, tutorial, student, subscription]
 
 本文介绍如何通过学生身份认证来免费获得Gemini高级版服务。Google为学生用户提供了一年的免费Gemini Advanced订阅，配合虚拟信用卡使用可实现长期使用。
 
-## 步骤 1：注册Penn State学生邮箱
+## 步骤 1：注册Penn State学生账号
 
-1. 访问Penn State学生邮箱注册页面：https://accounts.psu.edu/create/new
+1. 访问Penn State学生账号注册页面：https://accounts.psu.edu/create/new
 2. 按照页面提示填写相关信息，注册一个学生身份
-3. 获取你的Penn State邮箱地址（格式通常为：username@psu.edu）
+3. 获取你的Penn State账号（格式为：username@psu.edu）
 
-## 步骤 2：购买虚拟信用卡
+**重要提示：** 这个PSU账号虽然看起来像邮箱（username@psu.edu），但实际上不是邮箱，只是一个账号名，没有邮箱功能。
+
+## 步骤 2：验证学生身份
+
+1. 在Google的学生优惠页面或Gemini订阅页面点击"验证学生身份"
+2. 系统会跳转到Penn State网站要求登录授权
+3. 使用你注册的username@psu.edu账号和密码登录即可完成验证
+
+## 步骤 3：购买虚拟信用卡
 
 1. 前往咸鱼平台搜索"虚拟信用卡"或"外币信用卡"
 2. 购买一张可用于国际支付的虚拟信用卡，价格约10元人民币
 3. 获取虚拟信用卡的卡号、有效期和CVV码等信息
 
-## 步骤 3：使用美国节点注册Gemini
+## 步骤 4：使用美国节点注册Gemini
 
 1. 确保你的网络节点位于美国（使用VPN或代理）
 2. 访问Gemini官网或下载Gemini应用
-3. 使用刚才注册的Penn State邮箱登录Google账户
+3. 使用刚才注册的Penn State账号登录Google账户
 4. 在账户设置中申请学生认证
 
-## 步骤 4：激活学生优惠
+## 步骤 5：激活学生优惠
 
 1. 在Gemini应用中找到订阅选项
 2. 选择学生优惠计划
@@ -50,3 +58,6 @@ A: Gemini学生优惠在某些地区不可用，美国节点可确保访问权�
 
 Q: 虚拟信用卡安全吗？
 A: 选择信誉良好的卖家，注意保护个人信息。
+
+Q: PSU账号有什么特殊之处？
+A: PSU账号虽然看起来像邮箱地址，但实际上是登录凭证，用于验证学生身份，无邮件收发功能。
