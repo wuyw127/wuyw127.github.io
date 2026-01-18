@@ -1,0 +1,24 @@
+title: "订阅教程"
+description: "账号订阅相关教程与排坑记录"
+url: "https://wuyw127.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+minimal_mistakes_skin: "default"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+      author_profile: false
+      classes: wide
